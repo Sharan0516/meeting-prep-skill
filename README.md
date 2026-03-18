@@ -53,7 +53,6 @@ mkdir -p ~/.claude/skills/meeting-prep/references
 ```bash
 cp SKILL.md ~/.claude/skills/meeting-prep/SKILL.md
 cp references/meeting-types.md ~/.claude/skills/meeting-prep/references/meeting-types.md
-cp references/question-bank.md ~/.claude/skills/meeting-prep/references/question-bank.md
 cp references/briefing-quality-checklist.md ~/.claude/skills/meeting-prep/references/briefing-quality-checklist.md
 ```
 
@@ -109,7 +108,6 @@ meeting-prep/
   SKILL.md                                  # Main skill definition
   references/
     meeting-types.md                        # Type-specific pipeline overrides
-    question-bank.md                        # Question templates by phase
     briefing-quality-checklist.md           # Quality gates and confidence scoring
   README.md                                 # This file
 ```

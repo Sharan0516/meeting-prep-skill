@@ -327,7 +327,15 @@ If no validated data for this segment, flag as "pure discovery."
 
 **Default below applies to discovery/demo type.** Questions should be informed by ALL the research done above -- never ask something the research already answered.
 
-Read `references/question-bank.md` as a prompt library for phrasing inspiration.
+Generate questions from scratch based on meeting type + research. Do NOT use templates. Each question should be specific to this person, this company, and this meeting's context. Reference `references/meeting-types.md` for type-specific question design principles:
+- **Discovery:** Open-ended, pain-finding, understand their world before proposing anything
+- **Follow-up:** Accountability on prior commitments, deeper probes on topics introduced but not explored
+- **Investor:** Flip the script. Prepare answers to their likely questions, not questions for them
+- **Advisory:** Learning-oriented. "What would you do differently?" "What are we missing?"
+- **Partnership:** Mutual value exploration. "Where do our audiences overlap?" "What does success look like for both sides?"
+- **Customer success:** Health check. "What's working? What isn't? What do you wish was different?"
+- **Internal:** Decision-oriented. "What's blocking this?" "What do we need to decide today?"
+- **Hiring:** Assessment + sell. Evaluate fit while making the role compelling.
 
 ### Follow-Up Meeting Questions (is_followup = true)
 
